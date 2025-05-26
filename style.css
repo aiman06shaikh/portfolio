@@ -91,7 +91,7 @@
       display: flex;
       justify-content: center;
     }
-    .hero-gif img {
+    .hero-gif video {
       width: 300px;
       max-width: 100%;
     }
